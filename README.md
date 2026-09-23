@@ -27,7 +27,7 @@ The dashboard provides a quick visual summary of:
 
 1. Download or clone this repository.
 2. Open `Sales_Performance_Dashboard.xlsx` in Microsoft Excel.
-3. Use the slicers, filters, and charts to explore performance by region, product, time period, and sales team.
+3. Enable Edit, Use the slicers, filters, and charts to explore performance by region, product, time period, and sales team.
 4. Refresh the workbook if the source data is updated.
 
 ## Requirements
